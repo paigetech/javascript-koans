@@ -1,5 +1,5 @@
 # Javascript Koans - koans to learn Javascript (the good bits) #
-
+woo
 Based on Edgecase's fantastic 
 [Ruby koans](http://github.com/edgecase/ruby_koans), the goal of the
 Javascript koans is to teach you Javascript programming through
